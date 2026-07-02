@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 5.6.10 (2026-07-02)
+
+
+### Bug Fixes
+
+* `<button disabled>` style in menu. closes: [#4600](https://github.com/saadeghi/daisyui/issues/4600) ([1f07963](https://github.com/saadeghi/daisyui/commit/1f07963399bf9c545f6df1b3e0f52614c592e1d9))
+
 ## 5.6.9 (2026-07-02)
 
 
