@@ -1,4 +1,5 @@
 <script>
+  import "../../homepage.css"
   import { browser } from "$app/environment"
 
   import { PUBLIC_DAISYUI_API_PATH } from "$env/static/public"

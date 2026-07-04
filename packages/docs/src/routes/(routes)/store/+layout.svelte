@@ -1,4 +1,5 @@
 <script>
+  import "../../../global.css"
   import StoreFooter from "$components/StoreFooter.svelte"
   let { data, children } = $props()
 </script>

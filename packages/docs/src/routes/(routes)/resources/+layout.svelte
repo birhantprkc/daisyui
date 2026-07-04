@@ -1,4 +1,5 @@
 <script>
+  import "../../../global.css"
   import { page } from "$app/stores"
   import Footer from "$components/Footer.svelte"
   import AlternativeSidebar from "$components/AlternativeSidebar.svelte"
