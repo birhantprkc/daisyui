@@ -52,7 +52,9 @@
 
       &[type="url"],
       &[type="email"] {
-        direction: ltr;
+        /* don't use direction. it breaks join */
+        /*direction: ltr;*/
+        text-align: left;
       }
 
       &::-webkit-datetime-edit,
