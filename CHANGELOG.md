@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [5.6.18](https://github.com/saadeghi/daisyui/compare/v5.6.17...v5.6.18) (2026-07-12)
+
+
+### Bug Fixes
+
+* add margin-inline-end: auto to .fieldset-legend to prevent iOS legend stretch ([#4627](https://github.com/saadeghi/daisyui/issues/4627)). closes: [#4611](https://github.com/saadeghi/daisyui/issues/4611) ([44c26c0](https://github.com/saadeghi/daisyui/commit/44c26c0cbd2f64aeff5f2313c980a279425cf2e2))
+
 ## [5.6.17](https://github.com/saadeghi/daisyui/compare/v5.6.16...v5.6.17) (2026-07-11)
 
 
